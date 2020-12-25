@@ -1,0 +1,21 @@
+﻿<ResourceDictionary  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Calculator" 
+        xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+    <v:String x:Key="r_English">English</v:String>
+    <v:String x:Key="r_Russian">Русский</v:String>
+    <v:String x:Key="r_French">French</v:String>
+
+    <v:String x:Key="multiply">multiplier</v:String>
+    <v:String x:Key="divide">partager</v:String>
+    <v:String x:Key="fold">plier</v:String>
+    <v:String x:Key="subtract">déduire</v:String>
+    <v:String x:Key="history">histoire</v:String>
+    <v:String x:Key="clear">nettoyer</v:String>
+    <v:String x:Key="A">A</v:String>
+    <v:String x:Key="B">B</v:String>
+    <v:String x:Key="Result">résultat</v:String>
+    <v:String x:Key="woof">GAW</v:String>
+</ResourceDictionary>
+    
